@@ -1,0 +1,21 @@
+WEEK 02
+
+tag = information of the content
+
+DOCTYPE html = tells that we are using html
+
+head = anything inside the head tag is not displaied to the user, info relevant (we link the css to that)
+
+body = everything the user is going to see
+
+inside body = A lot of terminology the way categorizes information
+
+<!DOCTYPE html>
+
+
+	<h1>Big heading</h1>
+	<h5>small heading</h5>
+	<div>its a box, space for information</div>
+	<p>a paragraph with loads and loads of text that goes onto the next line</p>
+	<p>a second paragrap</p>
+	<p>we want to <strong>emphasise</strong> something</p>

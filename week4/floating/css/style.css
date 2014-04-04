@@ -1,0 +1,34 @@
+header, 
+#main, 
+aside,
+#another-section, 
+footer {
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+header {
+  background: red;
+  width: 100%;
+}
+#main {
+  background: yellow;
+  width: 60%;
+  float: left;
+
+}
+aside {
+  background: green;
+  width: 40%;
+  float: right;
+}
+
+#another-section{
+	background-color: pink;
+	clear:both;
+}
+
+footer {
+	clear:both;
+  background: blue;
+}
